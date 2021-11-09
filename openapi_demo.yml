@@ -6,6 +6,7 @@ info:
     name: MIT
   description: |
     Here is an image ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
+    here is where you put conceptual info
 host: petstore.swagger.io
 basePath: /v1
 schemes:
