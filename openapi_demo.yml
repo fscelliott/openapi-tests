@@ -5,8 +5,8 @@ info:
   license:
     name: MIT
   description: |
-    Here's a heading 1 level
-    ===
+    # Here's a heading 1 level
+    
 
     Here's some **conceptual info**. It can be stored either inline 
     under global info object's description, or stored in a markdown file and injected by
@@ -15,7 +15,7 @@ info:
     And here's an image: ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
     Here's a level 2 heading
     ---
-    
+
     and that's the end of the conceptual info test!
 host: petstore.swagger.io
 basePath: /v1
