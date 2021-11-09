@@ -1,9 +1,11 @@
 swagger: "2.0"
 info:
   version: 1.0.0
-  title: Swagger Petstore
+  title: Frances test of Swagger Petstore
   license:
     name: MIT
+  description: 
+    $ref: description.md
 host: petstore.swagger.io
 basePath: /v1
 schemes:
