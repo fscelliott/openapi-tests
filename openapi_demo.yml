@@ -4,13 +4,13 @@ info:
   title: Frances test of Swagger Petstore
   license:
     name: MIT
-  description: >-
+  description: |
     # Here's a heading 1 level
     Here's some **conceptual info**. It can be stored either inline 
     under info>description, or stored in a markdown file and injected by
      redoc inline into the openapi.yml (technically storing 
     it in an md isn't correct w/ the openapi spec)
-    And here's an image: [diagram]()
+    And here's an image: ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
     #$ref: description.md
 host: petstore.swagger.io
 basePath: /v1
