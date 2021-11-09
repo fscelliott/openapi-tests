@@ -5,8 +5,9 @@ info:
   license:
     name: MIT
   description: |
-    Here is a heading 1
-    ===
+    here's some text 
+
+    ## Here is a heading 2
 
     Here is an image ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
     here is where you put conceptual info
