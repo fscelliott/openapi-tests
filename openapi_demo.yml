@@ -4,8 +4,10 @@ info:
   title: Frances test of Swagger Petstore
   license:
     name: MIT
-  description: 
-    $ref: description.md
+  description: >-
+    Here's some conceptual info stored in a markdown file and injected by redoc inline into the openapi.yml (technically storing 
+    it here isn't correct w/ the openapi spec)
+    #$ref: description.md
 host: petstore.swagger.io
 basePath: /v1
 schemes:
