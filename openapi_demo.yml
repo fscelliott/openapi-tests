@@ -5,7 +5,7 @@ info:
   license:
     name: MIT
   description: |
-    Here's an image: ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
+    Here's an image -- ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
     Here's some **conceptual info**. It can be stored either inline 
     under global info object's description, or stored in a markdown file and injected by
     redoc inline into the openapi.yml. technically storing 
