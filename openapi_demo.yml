@@ -5,8 +5,7 @@ info:
   license:
     name: MIT
   description: |
-    Here is a heading 1 level
-    ===
+    # Here is a heading 1 level
     And here's an image: ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
 host: petstore.swagger.io
 basePath: /v1
