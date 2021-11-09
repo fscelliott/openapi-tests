@@ -4,7 +4,7 @@ info:
   title: Frances test of Swagger Petstore
   license:
     name: MIT
-  description: >-
+  description: |
     Here is a heading 1
     ===
 
