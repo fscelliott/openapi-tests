@@ -5,6 +5,8 @@ info:
   license:
     name: MIT
   description: >-
+    # Here is a heading 1
+    
     Here is an image ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
     here is where you put conceptual info
 host: petstore.swagger.io
