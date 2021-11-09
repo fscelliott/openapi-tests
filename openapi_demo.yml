@@ -5,12 +5,7 @@ info:
   license:
     name: MIT
   description: |
-    Here's an image -- ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
-    Here's some **conceptual info**. It can be stored either inline 
-    under global info object's description, or stored in a markdown file and injected by
-    redoc inline into the openapi.yml. technically storing 
-    it in an md isn't correct w/ the openapi spec.
-    and that's the end of the conceptual info test!
+    Here is an image ![diagram](https://github.com/fscelliott/openapi-tests/raw/main/images/generic_dataflow.jpg)
 host: petstore.swagger.io
 basePath: /v1
 schemes:
